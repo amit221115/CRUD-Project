@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    margin-top: 25px;
+    padding-left: 885px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.main-button{
+    margin-left: 1620px;
+    margin-top: 25px;
+    padding: 8px 30px;
+}
+
+table{
+    
+}
